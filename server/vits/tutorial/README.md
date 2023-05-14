@@ -13,3 +13,6 @@ https://www.bilibili.com/video/BV1iL411y7Z5/?spm_id_from=333.337.search-card.all
 5.
 
 [github](https://github.com/svc-develop-team/so-vits-svc)
+
+# AI孙燕姿操作流程：So-VITS-SVC使用方法，人声提取，音色模拟，模型训练
+https://www.bilibili.com/video/BV1xP411R7JT/?spm_id_from=333.337.search-card.all.click&vd_source=6c26f08c0e3755e07309448dda5c688d
